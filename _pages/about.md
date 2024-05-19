@@ -25,11 +25,11 @@ that advancements in technology enrich everyone's lives.
 **Our Mission Encompasses Two Core Objectives:** social services and tech developments.
 
 On the social services front, we sponsor the accessibility of international conferences, advocating for open
-collaboration and channeling the voices of real users directly to tech developers. 
-Notably, we supported [MobiCom'23](sigmobile.org/mobicom/2023) and [CPS-IoT Week'24](cps-iot-week2024.ie.cuhk.edu.hk). 
-Additionally, we are proactive in
-hosting events for deaf-hearing dialogues to deepen our understanding of the diverse backgrounds and cultures of various
-communities.
+collaboration and channeling the voices of real users directly to tech developers.
+Notably, we supported [MobiCom'23](https://sigmobile.org/mobicom/2023/)
+and [CPS-IoT Week'24](https://cps-iot-week2024.ie.cuhk.edu.hk/).
+Additionally, we are proactive in hosting events for deaf-hearing dialogues to deepen our understanding of the diverse
+backgrounds and cultures of various communities.
 
 In our research efforts, we engage in-depth with sign language users, gathering valuable datasets and tirelessly
 innovating tech solutions to address pressing challenges. Our goal is not just technological advancement but creating
