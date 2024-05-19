@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 should serve vital social needs. By uniting technological innovation with real-world accessibility challenges, we ensure
 that advancements in technology enrich everyone's lives.
 
-**Our Mission Encompasses Two Core Objectives:** social services and tech developments.
+**Our Mission Focuses on Two Core Objectives: Social Services and Tech Advancement.**
 
 On the social services front, we sponsor the accessibility of international conferences, advocating for open
 collaboration and channeling the voices of real users directly to tech developers.
