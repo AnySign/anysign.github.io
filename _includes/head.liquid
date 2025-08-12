@@ -79,6 +79,12 @@
     id="highlight_theme_dark"
   >
   <script>
+    {% if page.force_light_theme %}
+      // Force light theme for this page before theme init
+      localStorage.setItem('theme', 'light');
+      document.documentElement.setAttribute('data-theme-setting', 'light');
+      document.documentElement.setAttribute('data-theme', 'light');
+    {% endif %}
     initTheme();
   </script>
 {% endif %}

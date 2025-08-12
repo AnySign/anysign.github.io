@@ -109,7 +109,7 @@
           {% endfor %}
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
-            <li class="toggle-container">
+            <li class="toggle-container" {% if page.force_light_theme %}style="display:none"{% endif %}>
               <button id="light-toggle" title="Change theme">
                 <i class="ti ti-sun-moon" id="light-toggle-system"></i>
                 <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
